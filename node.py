@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #asasa   
-
+#mistake
 class Node(object):
 
     # A Node object is stored inside the _nodes dictionary of a Tree object.
